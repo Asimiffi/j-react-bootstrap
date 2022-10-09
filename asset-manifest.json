@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/j-react-bootstrap/static/css/main.5622c448.css",
+    "main.js": "/j-react-bootstrap/static/js/main.15d19913.js",
+    "static/js/787.df5552d6.chunk.js": "/j-react-bootstrap/static/js/787.df5552d6.chunk.js",
+    "static/media/slider5.webp": "/j-react-bootstrap/static/media/slider5.12105cf1c114b778b18c.webp",
+    "static/media/creditcard.webp": "/j-react-bootstrap/static/media/creditcard.959a61b7288254709643.webp",
+    "static/media/women1.webp": "/j-react-bootstrap/static/media/women1.56a44b3d2ece61624726.webp",
+    "static/media/map.png": "/j-react-bootstrap/static/media/map.17ad3e61ec7f773ad278.png",
+    "static/media/slider1.webp": "/j-react-bootstrap/static/media/slider1.600996580d89f65c44cb.webp",
+    "static/media/slider2.webp": "/j-react-bootstrap/static/media/slider2.67304f9b25c5f1bcb2d5.webp",
+    "static/media/slider4.webp": "/j-react-bootstrap/static/media/slider4.7ffc759191fde1b88ddb.webp",
+    "static/media/men1.webp": "/j-react-bootstrap/static/media/men1.b0187210de89a5089ebe.webp",
+    "static/media/teengirls.webp": "/j-react-bootstrap/static/media/teengirls.51d7c87d504a177816ba.webp",
+    "static/media/women3.webp": "/j-react-bootstrap/static/media/women3.3ab2af4d4bf7d4d068af.webp",
+    "static/media/women2.webp": "/j-react-bootstrap/static/media/women2.39488686c0b6d1a79b59.webp",
+    "static/media/men3.webp": "/j-react-bootstrap/static/media/men3.19bed6aca56547732c97.webp",
+    "static/media/naerang.webp": "/j-react-bootstrap/static/media/naerang.f0ef324b44b9034a9b50.webp",
+    "static/media/slider3.webp": "/j-react-bootstrap/static/media/slider3.8c6bd6c4d1ae41f20b65.webp",
+    "static/media/teenboys.webp": "/j-react-bootstrap/static/media/teenboys.dbc01eabea6d0f05ba06.webp",
+    "static/media/men2.webp": "/j-react-bootstrap/static/media/men2.122605dd61fb95ae093c.webp",
+    "static/media/kidgirls.webp": "/j-react-bootstrap/static/media/kidgirls.75cf86e1b93db0a704b6.webp",
+    "static/media/aboutus.webp": "/j-react-bootstrap/static/media/aboutus.d2c66ed3b1f8956f18dc.webp",
+    "static/media/underwear.webp": "/j-react-bootstrap/static/media/underwear.23e29e21216681833808.webp",
+    "static/media/kidboys.webp": "/j-react-bootstrap/static/media/kidboys.70342f2a0211fb519668.webp",
+    "index.html": "/j-react-bootstrap/index.html",
+    "static/media/logo.webp": "/j-react-bootstrap/static/media/logo.04fe837ec2465f0e0f97.webp",
+    "main.5622c448.css.map": "/j-react-bootstrap/static/css/main.5622c448.css.map",
+    "main.15d19913.js.map": "/j-react-bootstrap/static/js/main.15d19913.js.map",
+    "787.df5552d6.chunk.js.map": "/j-react-bootstrap/static/js/787.df5552d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5622c448.css",
+    "static/js/main.15d19913.js"
+  ]
+}
